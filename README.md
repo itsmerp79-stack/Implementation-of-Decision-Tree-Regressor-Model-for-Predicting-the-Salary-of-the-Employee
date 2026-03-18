@@ -40,7 +40,5 @@ plt.scatter(X, y, color='red') plt.plot(X, model.predict(X), color='blue') plt.x
 ## Output:
 <img width="716" height="607" alt="image" src="https://github.com/user-attachments/assets/c4371c18-2e9b-46ea-ba12-7d742a38a1c8" />
 
-
-
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
